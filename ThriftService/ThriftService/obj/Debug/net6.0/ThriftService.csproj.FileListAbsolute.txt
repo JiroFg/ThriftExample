@@ -1,0 +1,17 @@
+C:\Users\Jiro\CODE\ThriftService\ThriftService\bin\Debug\net6.0\ThriftService.exe
+C:\Users\Jiro\CODE\ThriftService\ThriftService\bin\Debug\net6.0\ThriftService.deps.json
+C:\Users\Jiro\CODE\ThriftService\ThriftService\bin\Debug\net6.0\ThriftService.runtimeconfig.json
+C:\Users\Jiro\CODE\ThriftService\ThriftService\bin\Debug\net6.0\ThriftService.dll
+C:\Users\Jiro\CODE\ThriftService\ThriftService\bin\Debug\net6.0\ThriftService.pdb
+C:\Users\Jiro\CODE\ThriftService\ThriftService\bin\Debug\net6.0\Thrift.dll
+C:\Users\Jiro\CODE\ThriftService\ThriftService\obj\Debug\net6.0\ThriftService.csproj.AssemblyReference.cache
+C:\Users\Jiro\CODE\ThriftService\ThriftService\obj\Debug\net6.0\ThriftService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jiro\CODE\ThriftService\ThriftService\obj\Debug\net6.0\ThriftService.AssemblyInfoInputs.cache
+C:\Users\Jiro\CODE\ThriftService\ThriftService\obj\Debug\net6.0\ThriftService.AssemblyInfo.cs
+C:\Users\Jiro\CODE\ThriftService\ThriftService\obj\Debug\net6.0\ThriftService.csproj.CoreCompileInputs.cache
+C:\Users\Jiro\CODE\ThriftService\ThriftService\obj\Debug\net6.0\ThriftService.csproj.CopyComplete
+C:\Users\Jiro\CODE\ThriftService\ThriftService\obj\Debug\net6.0\ThriftService.dll
+C:\Users\Jiro\CODE\ThriftService\ThriftService\obj\Debug\net6.0\refint\ThriftService.dll
+C:\Users\Jiro\CODE\ThriftService\ThriftService\obj\Debug\net6.0\ThriftService.pdb
+C:\Users\Jiro\CODE\ThriftService\ThriftService\obj\Debug\net6.0\ThriftService.genruntimeconfig.cache
+C:\Users\Jiro\CODE\ThriftService\ThriftService\obj\Debug\net6.0\ref\ThriftService.dll

@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "ffeupoZxHvKVZ3izoLVZagoOMEwZ1ZmI8W+ooNxYv9HMPRFcsme1V3jCgGZ25XzgDlQ5NANs9A59WllsnMim2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jiro\\CODE\\ThriftService\\ThriftService\\ThriftService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jiro\\.nuget\\packages\\apachethrift\\0.9.3\\apachethrift.0.9.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"ApacheThrift 0.9.3\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net6.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "ApacheThrift",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

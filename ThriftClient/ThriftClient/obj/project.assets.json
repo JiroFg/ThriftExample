@@ -1,0 +1,111 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "ApacheThrift/0.9.3": {
+        "type": "package",
+        "compile": {
+          "lib/Thrift.dll": {}
+        },
+        "runtime": {
+          "lib/Thrift.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ApacheThrift/0.9.3": {
+      "sha512": "jS6Lgbjtk8/q0jt7UKqhALzQE1iDbdkezBHEXtItFmr0uAH5kTEbXz+erB9HscKDcX00bBeOXH0DigB/fd8Guw==",
+      "type": "package",
+      "path": "apachethrift/0.9.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "apachethrift.0.9.3.nupkg.sha512",
+        "apachethrift.nuspec",
+        "lib/Thrift.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "ApacheThrift >= 0.9.3"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Jiro\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Jiro\\CODE\\ThriftClient\\ThriftClient\\ThriftClient.csproj",
+      "projectName": "ThriftClient",
+      "projectPath": "C:\\Users\\Jiro\\CODE\\ThriftClient\\ThriftClient\\ThriftClient.csproj",
+      "packagesPath": "C:\\Users\\Jiro\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jiro\\CODE\\ThriftClient\\ThriftClient\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Jiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "ApacheThrift": {
+            "target": "Package",
+            "version": "[0.9.3, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"ApacheThrift 0.9.3\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net6.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "ApacheThrift",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

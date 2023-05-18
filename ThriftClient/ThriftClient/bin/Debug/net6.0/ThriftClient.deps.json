@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ThriftClient/1.0.0": {
+        "dependencies": {
+          "ApacheThrift": "0.9.3"
+        },
+        "runtime": {
+          "ThriftClient.dll": {}
+        }
+      },
+      "ApacheThrift/0.9.3": {
+        "runtime": {
+          "lib/Thrift.dll": {
+            "assemblyVersion": "0.9.3.0",
+            "fileVersion": "0.9.3.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ThriftClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ApacheThrift/0.9.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jS6Lgbjtk8/q0jt7UKqhALzQE1iDbdkezBHEXtItFmr0uAH5kTEbXz+erB9HscKDcX00bBeOXH0DigB/fd8Guw==",
+      "path": "apachethrift/0.9.3",
+      "hashPath": "apachethrift.0.9.3.nupkg.sha512"
+    }
+  }
+}
